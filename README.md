@@ -1,4 +1,4 @@
-# Reto #05 de POO
+# Reto #05 // #06 de POO
 Entrega del quinto y sexto reto planteados por Felipe Gonzales Roldan para programacion orientada objetos en la Universidad Nacional de Colombia
 ## Codigo Planteado (UTILS)
 ```python
